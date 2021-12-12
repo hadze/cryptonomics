@@ -5,6 +5,7 @@
 ## Guides
 
 * [IOTA](guides/iota/README.md)
+  * [Wiki-page](https://wiki.iota.org)
   * [2021\_Dec](guides/iota/2021\_dec.md)
 * [Basics](guides/basics.md)
 
