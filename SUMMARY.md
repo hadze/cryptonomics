@@ -6,6 +6,7 @@
 
 * [IOTA](guides/iota/README.md)
   * [Wiki-page](https://wiki.iota.org)
+  * [Einsteiger-Guide](https://iota-einsteiger-guide.de/inhaltsverzeichnis.html)
   * [2021\_Dec](guides/iota/2021\_dec.md)
 * [Basics](guides/basics.md)
 
