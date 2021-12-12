@@ -5,7 +5,7 @@ description: Container of crypto-related links, information, personal todo's and
 # Cryptonomics
 
 {% hint style="info" %}
-**About:** Container of crypto-related links, information, personal todo's and readings
+**About:** Container of crypto-related links, information, personal todo's and readings. Content is shared under: [https://arminhadzalic.gitbook.io/product-docs/](https://arminhadzalic.gitbook.io/product-docs/)
 {% endhint %}
 
 >
