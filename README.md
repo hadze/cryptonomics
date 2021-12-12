@@ -38,17 +38,9 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [iota](guides/iota/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/basics.md" %}
+[basics.md](guides/basics.md)
 {% endcontent-ref %}
-
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
 
 ### Fundamentals: Dive a little deeper
 
@@ -58,8 +50,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/task-lists.md" %}
