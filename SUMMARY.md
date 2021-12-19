@@ -8,6 +8,7 @@
   * [Wiki-page](https://wiki.iota.org)
   * [Einsteiger-Guide](https://iota-einsteiger-guide.de/inhaltsverzeichnis.html)
   * [IOTA StyleGuide](https://iota-css-theme.dag.sh)
+  * [Tangle-Explorer](https://explorer.iota.org/mainnet)
   * [Tutorials](guides/iota/tutorials.md)
   * [2021\_Dec](guides/iota/2021\_dec.md)
 
