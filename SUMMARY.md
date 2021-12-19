@@ -10,18 +10,6 @@
   * [IOTA StyleGuide](https://iota-css-theme.dag.sh)
   * [Tutorials](guides/iota/tutorials.md)
   * [2021\_Dec](guides/iota/2021\_dec.md)
-* [Basics](guides/basics.md)
-
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
 
 ## Extras
 
