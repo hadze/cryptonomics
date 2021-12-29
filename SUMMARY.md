@@ -6,6 +6,7 @@
 
 * [IOTA](guides/iota/README.md)
   * [Wiki-page](https://wiki.iota.org)
+  * [Roadmap](https://roadmap.iota.org)
   * [Einsteiger-Guide](https://iota-einsteiger-guide.de/inhaltsverzeichnis.html)
   * [IOTA StyleGuide](https://iota-css-theme.dag.sh)
   * [Tangle-Explorer](https://explorer.iota.org/mainnet)
